@@ -1,0 +1,4 @@
+interface:
+  display_name: "PKPM Structural Automation"
+  short_description: "Automate PKPM calculation workflows."
+  default_prompt: "Use this skill to guide or automate a PKPM structural calculation workflow from model backup through calculation, review, and deliverables."
